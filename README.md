@@ -16,4 +16,4 @@ Ce projet est une démonstration d'analyse statistique en utilisant Python. Il c
 ## Configuration requise
 
 - Python 3. installé sur votre système.
-- La bibliothèque NumPy installée dans votre environnement Python.
+- Les bibliothèques NumPy et Matplotlib installées dans votre environnement Python.
